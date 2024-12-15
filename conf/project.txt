@@ -1,0 +1,2 @@
+input.file.path.../users..
+hive.database = "retaildb"
